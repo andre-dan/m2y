@@ -1,0 +1,1 @@
+get 'users/:id', to: 'users#find_user'

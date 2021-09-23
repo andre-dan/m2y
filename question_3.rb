@@ -1,0 +1,1 @@
+User.where('age >= 18').where(profession: %w[programador desenvolvedor])
